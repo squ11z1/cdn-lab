@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>LABPOD-7788</title>
+<link>https://example.com/labpod</link>
+<description>LABPOD-DESC-7788</description>
+<language>en-us</language>
+<itunes:author>LAB-AUTHOR</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://example.com/lab.png"/>
+<item>
+<title>LABEP-7788</title>
+<description>LABEP-DESC-7788</description>
+<enclosure url="https://example.com/lab-ep.mp3" length="1234567" type="audio/mpeg"/>
+<guid isPermaLink="false">labep-7788</guid>
+<pubDate>Mon, 20 Oct 2025 10:00:00 GMT</pubDate>
+<itunes:duration>00:10:00</itunes:duration>
+</item>
+</channel></rss>
